@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DB_CLASSICMODELS@glkktvb-dl83564.snowflakecomputing.com" uuid="f98b7454-7ecf-4069-940a-a3897b999dfc">
+      <driver-ref>snowflake</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
+      <jdbc-url>jdbc:snowflake://glkktvb-dl83564.snowflakecomputing.com:443?warehouse=GR01_SHERBROOKE&amp;db=DB_CLASSICMODELS</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
