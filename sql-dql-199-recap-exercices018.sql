@@ -9,7 +9,7 @@
 
 -- lister les enregistrements de la table CATEGORIES en dénombrant les caractères dans le champ CATEGORYNAME
 
--- ATTENTION, les opérateurs scalaires permettent de calculer des valeurs en utilisant des opérateurs dédiés sur les champs d'un type s'apparentant au texte
+-- ATTENTION, les operateurs scalaires permettent de calculer des valeurs en utilisant des opérateurs dédiés sur les champs d'un type s'apparentant au texte
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 

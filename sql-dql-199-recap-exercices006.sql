@@ -12,7 +12,7 @@
 -- ATTENTION, l'opérateur WHERE pour filtrer
 -- ATTENTION, toujours lister les champs à inclure dans la requête
 -- ATTENTION, toujours spécifier un tri à une requiête
--- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
+-- ATTENTION, l'exécution d'une requête requiert la definition d'un contexte
 
 SELECT "CUSTOMERID",
        "CONTACTNAME",

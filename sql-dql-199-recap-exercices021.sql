@@ -9,7 +9,7 @@
 
 -- Définissez votre propre requête incluant au moins 4 conditions, c'est le moment d'explorer les fonctionnalités du langage SQL
 
--- ATTENTION, les opérateurs scalaires permettent de calculer des valeurs en combinant des opérateurs dédiés sur les champs d'un type s'apparentant à la date
+-- ATTENTION, les operateurs scalaires permettent de calculer des valeurs en combinant des opérateurs dédiés sur les champs d'un type s'apparentant à la date
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 SELECT ORDERID,

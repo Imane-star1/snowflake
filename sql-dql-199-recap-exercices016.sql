@@ -9,7 +9,7 @@
 
 -- lister les enregistrements de la table PRODUCTS en calculant le total du stock actuel et en commande
 
--- ATTENTION, les opérateurs scalaires permettent de calculer des valeurs en utilisant plus d'un champ d'un même enregistrement
+-- ATTENTION, les operateurs scalaires permettent de calculer des valeurs en utilisant plus d'un champ d'un même enregistrement
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 SELECT

@@ -9,7 +9,7 @@
 
 -- lister les enregistrements de la table CUSTOMERS triés par ville
 
--- ATTENTION, toujours lister les champs à inclure dans la requête
+-- ATTENTION, toujours lister les champs à inclure dans la requete
 -- ATTENTION, toujours spécifier un tri à une requiête
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 

@@ -12,7 +12,7 @@
 -- ATTENTION, l'opérateur WHERE pour filtrer
 -- ATTENTION, l'inversion d'une valeur se fait au moyen du mot clé NOT, il existe parfois des opérateurs incluant directement la négation
 -- ATTENTION, toujours lister les champs à inclure dans la requête
--- ATTENTION, toujours spécifier un tri à une requiête
+-- ATTENTION, toujours spécifier un tri à une requête
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 SELECT "CUSTOMERID",

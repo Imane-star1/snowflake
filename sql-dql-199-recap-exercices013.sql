@@ -9,7 +9,7 @@
 
 -- lister les enregistrements de la table CUSTOMERS dont la ville est Fort Smith, Langford, Cantley ou Price
 
--- ATTENTION, l'opérateur WHERE pour filtrer
+-- ATTENTION, lopérateur WHERE pour filtrer
 -- ATTENTION, les opérateurs IN et BETWEEN permettent de spécifier des plages de valeurs
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 

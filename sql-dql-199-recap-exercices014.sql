@@ -11,7 +11,7 @@
 
 -- ATTENTION, l'opérateur WHERE pour filtrer
 -- ATTENTION, les opérateurs IN et BETWEEN permettent de spécifier des plages de valeurs
--- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
+-- ATTENTION, l'exécution d'une requete requiert la définition d'un contexte
 
 SELECT PRODUCTID,
        PRODUCTNAME,

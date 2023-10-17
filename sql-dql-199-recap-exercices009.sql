@@ -13,7 +13,7 @@
 -- ATTENTION, la valeur NULL est une valeur valide en SQL et indique l'absence de valeur, ce n'est pas la même chose qu'une valeur vide "" ou un simple espace " "
 -- ATTENTION, l'inversion d'une valeur se fait au moyen du mot clé NOT
 -- ATTENTION, toujours lister les champs à inclure dans la requête
--- ATTENTION, toujours spécifier un tri à une requiête
+-- ATTENTION, toujours spécifier un tri à une requête
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 

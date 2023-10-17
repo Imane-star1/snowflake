@@ -9,7 +9,7 @@
 
 -- lister les enregistrements de la table CUSTOMER en séparant les noms et prénoms à partir du permier espace rencontré
 
--- ATTENTION, les opérateurs scalaires permettent de calculer des valeurs en combinant des opérateurs dédiés sur les champs d'un type s'apparentant au texte
+-- ATTENTION, les operateurs scalaires permettent de calculer des valeurs en combinant des opérateurs dédiés sur les champs d'un type s'apparentant au texte
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 SELECT CUSTOMERID,

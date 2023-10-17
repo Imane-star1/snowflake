@@ -7,7 +7,7 @@
 -- objectif : lister les enregistrements pertinent d'une table
 --
 
--- lister les enregistrements de la tables CUSTOMER en éliminant companyname et contacttitle et fax
+-- lister les enregistrements de la table CUSTOMER en éliminant companyname et contacttitle et fax
 
 -- ATTENTION, toujours lister les champs à inclure dans la requête
 -- ATTENTION, le dernier champs dans la requête ne doit pas être suivi d'une virgule

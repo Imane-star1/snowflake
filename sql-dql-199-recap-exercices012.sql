@@ -16,7 +16,7 @@
 -- ATTENTION, l'opérateur LIKE permet d'utiliser des patrons simples à partir de frimes, "%" désigne plusieurs caractères, "_" désigne un seul caractère
 -- ATTENTION, l'opérateur NOT permet d'inverser le sens de la sélection
 -- ATTENTION, toujours lister les champs à inclure dans la requête
--- ATTENTION, toujours spécifier un tri à une requiête
+-- ATTENTION, toujours spécifier un tri à une requête
 -- ATTENTION, l'exécution d'une requête requiert la définition d'un contexte
 
 

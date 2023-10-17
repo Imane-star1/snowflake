@@ -9,7 +9,7 @@
 
 -- lister les enregistrements de la table CUSTOMERS en renommant les colonnes retenues par des termes français
 
--- ATTENTION, utiliser l'alias pour créer une liste d'enregistrement compréhensible par l'utilisateur final
+-- ATTENTION, utiliser l'alias pour creer une liste d'enregistrement compréhensible par l'utilisateur final
 -- ATTENTION, les guillemets sont nécessaire pour les appelations de plus d'un terme ou avec accent
 -- ATTENTION, toujours lister les champs à inclure dans la requête
 -- ATTENTION, toujours spécifier un tri à une requiête
